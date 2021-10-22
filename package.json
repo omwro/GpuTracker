@@ -10,9 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "puppeteer": "^7.1.0"
+    "puppeteer": "^10.4.0"
   },
   "dependencies": {
     "open": "^7.4.0"
-  }
+  },
+  "type": "module"
 }
